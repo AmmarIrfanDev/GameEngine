@@ -1,2 +1,17 @@
 # GameEngine
-This is a basic 2D game engine developed in C++ using SDL2, designed for ease of use and extensive customization. It incorporates robust physics and collision detection systems, making it ideal for both beginners and experienced developers looking to create 2D games quickly.
+This 2D game development framework, built using C++ and SDL2, is designed to simplify the process of creating customized, physics-based games. It provides a robust foundation for game developers, offering essential components for handling player input, physics simulation, and rendering. Whether you’re creating a fast-paced platformer or a more complex 2D game, this framework offers the flexibility and control you need to bring your vision to life.
+
+## Key Features
+
+✅Comprehensive Input Handling
+Supports keyboard and game controller inputs, ensuring smooth and responsive gameplay. The system includes deadzone correction to prevent joystick drift, making it ideal for accurate movement controls in high-stakes scenarios.
+
+✅Advanced Physics Engine
+Features collision detection and realistic physics simulations, allowing developers to implement platform-based mechanics, dynamic jumping, and other physics-driven gameplay features.
+
+✅Efficient Rendering
+Leveraging SDL2’s hardware-accelerated rendering capabilities, the framework delivers high-performance graphics rendering. It ensures consistent frame rates across different platforms by integrating frame rate capping for smoother gameplay.
+
+✅Entity and Collision Management
+Provides tools for managing static and dynamic entities, along with comprehensive collision handling, enabling the creation of detailed and interactive game worlds.
+
