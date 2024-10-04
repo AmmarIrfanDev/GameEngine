@@ -45,4 +45,8 @@ The engine offers seamless integration and extensive customization capabilities,
 
 1) ```git clone https://github.com/AmmarIrfanDev/GameEngine.git```
 
-2) Modify the Main loop to create your Game
+2a) Modify the Main loop and create your Game there.
+
+**or**
+
+2b) Modify the code yourself using ```__declspec(dllexport)``` to export the functions you need, and use ```__declspec(dllimport)``` in your own code to import the functions you need.
