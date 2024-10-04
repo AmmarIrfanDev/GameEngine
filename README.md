@@ -18,11 +18,13 @@ Provides tools for managing static and dynamic entities, along with comprehensiv
 ## Future Enhancements
 Looking ahead, the project aims to incorporate additional features and improvements, such as:
 
-1) Enhanced Graphics Support: Plans to include support for advanced graphical techniques, such as shaders and lighting effects, to elevate the visual quality of games developed with the engine.
+**1) Static and Dynamic linking will be added soon. Currently, you must modify the code yourself using ```__declspec(dllexport)``` to export the functions you need, and use ```__declspec(dllimport)``` in your own code to import the functions you need.**
 
-2) Networking Capabilities: Future versions may introduce multiplayer support, enabling developers to create online games and expand their game worlds.
+2) Enhanced Graphics Support: Plans to include support for advanced graphical techniques, such as shaders and lighting effects, to elevate the visual quality of games developed with the engine.
 
-3) Asset Pipeline: An improved asset pipeline to streamline the process of importing and managing game assets, including textures, sounds, and music.
+3) Networking Capabilities: Future versions may introduce multiplayer support, enabling developers to create online games and expand their game worlds.
+
+4) Asset Pipeline: An improved asset pipeline to streamline the process of importing and managing game assets, including textures, sounds, and music.
 
 ## Integration & Customisation
 The engine offers seamless integration and extensive customization capabilities, empowering developers to adapt the framework to their unique project requirements. Its component-based architecture allows for easy assembly of game entities by combining various reusable components, enabling tailored gameplay mechanics without starting from scratch. Developers can integrate third-party libraries and tools, enhancing functionality such as AI, networking, and audio systems. With support for customizable configuration files, users can adjust game settings, tweak performance parameters, and modify entity properties on the fly, ensuring that the engine can evolve alongside the project. This flexibility fosters creativity, allowing developers to experiment with different gameplay styles and mechanics while maintaining a robust underlying structure.
