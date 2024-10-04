@@ -35,8 +35,10 @@ The engine offers seamless integration and extensive customization capabilities,
 4) SDL2_IMAGE
 
 # Installation:
-1) Download Binaries from Releases menu
+~~1) Download Binaries from Releases menu~~
 
-2) Link either dynamically or statically (static linking is recommended)
+~~2) Link either dynamically or statically (static linking is recommended)~~
 
-3) add include directory
+~~3) add include directory~~
+
+1) ```git clone```
