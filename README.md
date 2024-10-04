@@ -27,6 +27,13 @@ Looking ahead, the project aims to incorporate additional features and improveme
 ## Integration & Customisation
 The engine offers seamless integration and extensive customization capabilities, empowering developers to adapt the framework to their unique project requirements. Its component-based architecture allows for easy assembly of game entities by combining various reusable components, enabling tailored gameplay mechanics without starting from scratch. Developers can integrate third-party libraries and tools, enhancing functionality such as AI, networking, and audio systems. With support for customizable configuration files, users can adjust game settings, tweak performance parameters, and modify entity properties on the fly, ensuring that the engine can evolve alongside the project. This flexibility fosters creativity, allowing developers to experiment with different gameplay styles and mechanics while maintaining a robust underlying structure.
 
+## Prerequisites (included in ```git clone```) 
+
+1) ~~GLEW (The OpenGL Extension Wrangler Library)~~
+2) ~~GLFW~~
+3) SDL2
+4) SDL2_IMAGE
+
 # Installation:
 1) Download Binaries from Releases menu
 
