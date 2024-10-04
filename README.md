@@ -18,7 +18,7 @@ Provides tools for managing static and dynamic entities, along with comprehensiv
 ## Future Enhancements
 Looking ahead, the project aims to incorporate additional features and improvements, such as:
 
-**1) Static and Dynamic linking will be added soon. Currently, you must modify the code yourself using ```__declspec(dllexport)``` to export the functions you need, and use ```__declspec(dllimport)``` in your own code to import the functions you need.**
+1) **Static and Dynamic linking will be added soon. Currently, you must modify the code yourself using ```__declspec(dllexport)``` to export the functions you need, and use ```__declspec(dllimport)``` in your own code to import the functions you need.**
 
 2) Enhanced Graphics Support: Plans to include support for advanced graphical techniques, such as shaders and lighting effects, to elevate the visual quality of games developed with the engine.
 
