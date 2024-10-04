@@ -41,4 +41,6 @@ The engine offers seamless integration and extensive customization capabilities,
 
 ~~3) add include directory~~
 
-1) ```git clone```
+1) ```git clone https://github.com/AmmarIrfanDev/GameEngine.git```
+
+2) Modify the Main loop to create your Game
