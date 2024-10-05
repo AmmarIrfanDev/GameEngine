@@ -1,7 +1,11 @@
 # GameEngine
 This 2D game development framework, built using C++ and SDL2, is designed to simplify the process of creating customized, physics-based games. It provides a robust foundation for game developers, offering essential components for handling player input, physics simulation, and rendering. Whether you’re creating a fast-paced platformer or a more complex 2D game, this framework offers the flexibility and control you need to bring your vision to life.
 
-![Sequence 01_2 (1)](https://github.com/user-attachments/assets/7f9d5a6d-1bb8-4869-b1de-41661a9acc6d)
+
+
+https://github.com/user-attachments/assets/44876ae7-a5dc-4081-abb4-3d60eecf6433
+
+
 
 ## Key Features
 
