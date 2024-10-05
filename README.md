@@ -3,7 +3,7 @@ This 2D game development framework, built using C++ and SDL2, is designed to sim
 
 
 
-https://github.com/user-attachments/assets/6014c581-8f1a-4e08-b916-8fd12dd21042
+https://github.com/user-attachments/assets/406f7fe8-9773-4619-8a26-6aaf64948fe4
 
 
 
