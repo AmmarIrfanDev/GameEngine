@@ -44,7 +44,7 @@ The engine offers seamless integration and extensive customization capabilities,
 
 # Installation form source:
 
-1) ```git clone```
+1) ```git clone https://github.com/AmmarIrfanDev/GameEngine.git```
 
 2) Open ```GameEngine.sln```
 
