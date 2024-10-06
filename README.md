@@ -48,8 +48,8 @@ The engine offers seamless integration and extensive customization capabilities,
 
 2) Open ```GameEngine.sln```
 
-3) Make sure Debug mode is selected and open the Solution Properties (right click on the Solution and select Properties)
+3) Make sure Debug mode is selected and open the Solution Properties (right click on the Solution and select Properties). Make sure ```test``` is selected under ```Single startup project```.
 
-   ![image](https://github.com/user-attachments/assets/be62d838-e59d-45fb-ab63-5411145f0fd9)
+   ![image](https://github.com/user-attachments/assets/f86c1acc-98ef-47c1-b7d8-e16b0aaa7689)
 
 4) Build and enjoy!
