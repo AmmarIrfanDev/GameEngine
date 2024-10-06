@@ -42,6 +42,14 @@ The engine offers seamless integration and extensive customization capabilities,
 3) SDL2
 4) SDL2_IMAGE
 
-# Installation:
+# Installation form source:
 
+1) ```git clone```
 
+2) Open ```GameEngine.sln```
+
+3) Make sure Debug mode is selected and open the Solution Properties (right click on the Solution and select Properties)
+
+   ![image](https://github.com/user-attachments/assets/be62d838-e59d-45fb-ab63-5411145f0fd9)
+
+4) Build and enjoy!
